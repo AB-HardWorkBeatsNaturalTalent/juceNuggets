@@ -3,7 +3,7 @@
 Going through the building blocks for a plugin, publicly.
 
 1. We want a simple application that allows the user to output a MIDI file after fiddling with a slider or a text field.
-2. the slider and text field shall be linked so that the values
+2. the slider and text field shall should listen for each other's changes
 3. validate the text input, else result is 0.
 
 TODO:
